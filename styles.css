@@ -1,0 +1,35 @@
+.title{
+  width: 100%;
+}
+.number{
+  padding-left: 700px;
+}
+img{
+  margin-top: 30px;
+  margin-bottom: 30px;
+   padding-left: 100px;
+   height: 150px;
+   width: 250px;
+}
+.tax{
+  text-align: center;
+}
+.invoice{
+  font-size: 40px;
+}
+#date{
+  margin-left: 150px;
+  width: 80%;
+  text-align: center;
+}
+#date td, #date th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.address{
+  margin-left: 150px;
+}
+#table td, #table th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
